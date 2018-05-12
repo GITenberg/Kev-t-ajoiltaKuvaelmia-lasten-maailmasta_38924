@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5981
     wikipedia: http://sv.wikipedia.org/wiki/Mathilda_Roos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38924#Kev-t-ajoiltaKuvaelmia-lasten-maailmasta
 gutenberg_issued: '2012-02-18'
 gutenberg_type: Text
 identifiers:
